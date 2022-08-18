@@ -1,0 +1,19 @@
+// fonts
+
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Cairo:wght@300;400;700&family=Inter:wght@400;700&family=Karla:wght@400;700&family=Kumbh+Sans:wght@400;700&family=Lexend+Deca&family=Manrope:wght@500;700&family=Montserrat:wght@500;700&family=Open+Sans:ital,wght@0,400;1,400;1,600&family=Outfit:wght@100;300;400;600;700&family=Overpass:wght@400;700&family=Poppins:wght@300;400;500;600&family=Roboto:ital,wght@0,500;0,700;0,900;1,300&family=Space+Mono:wght@700&family=Work+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Cairo:wght@300;400;700&family=Fraunces:opsz,wght@9..144,700&family=Inter:wght@400;700&family=Karla:wght@400;700&family=Kumbh+Sans:wght@400;700&family=Lexend+Deca&family=Manrope:wght@500;700&family=Montserrat:wght@500;700&family=Open+Sans:ital,wght@0,400;1,400;1,600&family=Outfit:wght@100;300;400;600;700&family=Overpass:wght@400;700&family=Poppins:wght@300;400;500;600&family=Roboto:ital,wght@0,500;0,700;0,900;1,300&family=Space+Mono:wght@700&family=Work+Sans:wght@400;700&display=swap");
+$font_one: "Montserrat", sans-serif; // for the H1
+$font_two: "Fraunces", serif; // for the price
+// colors
+
+$Bdark_cyan: hsl(158, 36%, 37%);
+$cream_color: hsl(30, 38%, 92%); // for background
+$Bdark_blue_color: hsl(212, 21%, 14%); // for the button
+$Pdark_blue: hsl(228, 12%, 48%); //for the paragraph
+$white_color: hsl(0, 0%, 100%); // for the container
+
+.flex-class {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
