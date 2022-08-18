@@ -50,15 +50,17 @@ body {
   display: flex;
   gap: 10px;
   align-items: center;
-  font-family: "Fraunces", serif;
   width: 100%;
 }
 .container .left-container .num-1 {
   font-size: 2rem;
   font-weight: bold;
+  font-family: "Fraunces", serif;
 }
 .container .left-container .num-2 {
   text-decoration: line-through;
+  color: hsl(228deg, 12%, 48%);
+  font-family: "Montserrat", sans-serif;
 }
 .container .left-container .btn {
   cursor: pointer;

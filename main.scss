@@ -48,16 +48,19 @@ body {
       gap: 10px;
       //   justify-content: space-between;
       align-items: center;
-      font-family: $font_two;
+
       width: 100%;
     }
 
     .num-1 {
       font-size: 2rem;
       font-weight: bold;
+      font-family: $font_two;
     }
     .num-2 {
       text-decoration: line-through;
+      color: $Pdark_blue;
+      font-family: $font_one;
     }
 
     .btn {
